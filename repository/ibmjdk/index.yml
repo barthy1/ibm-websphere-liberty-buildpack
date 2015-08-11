@@ -1,3 +1,3 @@
 1.7.1:
-    uri: https://github.com/barthy1/ibm-websphere-liberty-buildpack/tree/master/repository/ibmjdk/ibm-java-jre-7.1-3.10-ppc64le-archive.bin
+    uri: https://s3.eu-central-1.amazonaws.com/liberty-ibm-jdk/jdk/ibm-java-jre-7.1-3.10-ppc64le-archive.bin
     license: https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?la_formnum=&li_formnum=L-AWON-8GALN9&title=IBM%C2%AE+SDK%2C+Java-+Technology+Edition%2C+Version+7.0&l=en

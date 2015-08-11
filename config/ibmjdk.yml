@@ -15,5 +15,5 @@
 
 # Configuration for JRE repository
 ---
-repository_root: "https://github.com/barthy1/ibm-websphere-liberty-buildpack/tree/master/repository/ibmjdk/"
+repository_root: "https://s3.eu-central-1.amazonaws.com/liberty-ibm-jdk/jdk/"
 version: 1.7.+
